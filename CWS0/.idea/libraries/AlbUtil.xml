@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AlbUtil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/AlbUtil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
